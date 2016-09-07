@@ -1,13 +1,13 @@
 #Calculator Pioneer
 
 Remember function syntax and invocation:
-````
+```javascript
 var whatIsThis = function (string){
 	return "This is a " + string;
 }; //note this semicolon--not a comma like in methods.
 
 whatIsThis("calculator"); //"This is a calculator"
-````
+```
 
 This exercise is supposed to be tedious. Understanding the structure and syntax of functions will yield a better understanding of function declarations and, later, higher order functions.
 
