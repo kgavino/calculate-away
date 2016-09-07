@@ -37,4 +37,5 @@ This exercise is supposed to be tedious. Understanding the structure and syntax 
 * [ ] create a function called "getRemainder" which takes in two number arguments and returns the remainder of the first argument divided by the second. (Search "modulo")
 
 **Are you getting the results you want?**
-*[ ] invoke all of your functions with proper arguments.
+
+* [ ] invoke all of your functions with proper arguments.
